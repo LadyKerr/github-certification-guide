@@ -27,7 +27,7 @@ If you have any resources that you would like to add to this repo, please feel f
 
 ## Resources
 
-- [GitHubCertified.com](https://githubcertified.com/) - FREE practice exams
+- [GitHubCertified.com](https://githubcertified.com/) - FREE ✨ unofficial ✨ practice exams
 
 ## License
 
