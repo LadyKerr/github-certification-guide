@@ -28,6 +28,8 @@ If you have any resources that you would like to add to this repo, please feel f
 ## Resources
 
 - [GitHubCertified.com](https://githubcertified.com/) - FREE ✨ unofficial ✨ practice exams
+- [Linkedin Learning - GitHub Foundations Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification?u=3322) ✨
+- [Linkedin Learning - GitHub Admin Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322) ✨
 
 ## License
 
