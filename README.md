@@ -1,6 +1,6 @@
 # GitHub Certifications Guide 🚀
 
-GitHub certifications are here! 🎉
+GitHub certifications are here! 🎉 See the official blog post here: https://github.blog/2024-01-08-github-certifications-are-generally-available/ 
 
 Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
 ![GitHub Certifications](./images/gh-certs.png)
