@@ -29,7 +29,7 @@ If you have any resources that you would like to add to this repo, please feel f
 
 - [Linkedin Learning - GitHub Foundations Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification?u=3322) ✨
 - [Linkedin Learning - GitHub Admin Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322) ✨
-
+- [Free & Open Source Unofficial Practice Exams](http://githubcertified.com/) ✨.
 ## License
 
 This project is licensed under the [MIT License](https://github.com/FidelusAleksander/githubcertified/blob/master/LICENSE).
