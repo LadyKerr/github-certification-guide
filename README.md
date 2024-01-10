@@ -5,7 +5,7 @@ GitHub certifications are here! 🎉 See the official blog post here: https://gi
 Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
 ![GitHub Certifications](./images/gh-certs.png)
 
-In this repo you will find study guides, and resources to help you prepare for the exams. There are cutrrently 4 certifications available: 
+In this repo you will find study guides, and resources to help you prepare for the exams. There are currently 4 certifications available: 
 
 | Certification                | Description                                           | Study Guide                  |
 | ---------------------------- | ----------------------------------------------------- | --------------------- |
