@@ -334,7 +334,7 @@ GitHub Codespaces
 Describe GitHub Codespaces
 ```
 ```
-Identify how do to start a GitHub codespace
+Identify how to start a GitHub codespace
 ```
 ```
 Describe the codespace lifecycle
