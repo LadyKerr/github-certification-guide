@@ -1,5 +1,7 @@
 ![GitHub Foundations Study Guide](../images/gh-foundations.png)
 
+
+
 > You can also find this [study guide in PDF format](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/4e60030cc6c76688698652e830ea2a48/github-foundations-exam-study-guide.pdf) 📝
 
 # GitHub Foundations
