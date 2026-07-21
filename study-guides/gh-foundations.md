@@ -58,9 +58,11 @@ knowledge and readiness for the certification exam.
 ```
 Git and GitHub Basics
 ```
+
 ```
 Describe version control
 ```
+Version Control provides a person or a team to develop a new version of some page, tutorial, code and everything that benefits about the att of the content. It understands the latest versions of it, the differences between the previous and the actual version and the description about the changes. 
 ```
 Define distributed version control
 ```
